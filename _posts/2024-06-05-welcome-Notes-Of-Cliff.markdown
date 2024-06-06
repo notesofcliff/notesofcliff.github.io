@@ -2,9 +2,17 @@
 layout: post
 title:  "Welcome to Notes of Cliff!"
 date:   2024-06-05 15:38:56 -0400
-categories: jekyll update
+categories: welcome introduction
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello and welcome to my new blog's first post.
+
+I will keep it short for this first post so I can start in on my plans for this blog.
+
+Stay tuned to this blog or follow our [RSS feed](/feed.xml) because we have some big plans
+coming soon.
+
+
+<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -26,4 +34,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
