@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Notes of Cliff!"
 date:   2024-06-05 15:38:56 -0400
 categories: jekyll update
 ---
