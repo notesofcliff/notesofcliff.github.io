@@ -2,7 +2,7 @@
 layout: post
 title:  "How to install Python"
 date:   2024-09-27 14:21:56 -0400
-categories: python python3 windows mac linux
+categories: ["python", "python3", "windows", "mac", "linux"]
 ---
 
 **Installing the Latest Version of Python: A Step-by-Step Guide for Beginners**
